@@ -1,4 +1,4 @@
-Hi 👋 My name is Ren Takahashi.
+Hi 👋 My name is Ren.
 ===============================
 
 Junior IOS Developer.
