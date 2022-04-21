@@ -5,7 +5,7 @@ Junior IOS Developer.
 ---------------------
 
 I've been learning Swift and IOS_Dev for a year.  
-I wanna be IOS Developer.
+I wanna be "Pro" IOS Developer.
 
 * 🌍  I'm based in Saitama/Japan
 
