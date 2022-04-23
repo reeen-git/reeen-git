@@ -1,13 +1,19 @@
 Hi 👋 My name is Ren.
 ===============================
 
-Junior IOS Developer.
+I'm a Junior IOS Developer.
 ---------------------
 
 I've been learning Swift and IOS_Dev for a year.  
 I wanna be "Pro" IOS Developer.
 
 * 🌍  I'm based in Saitama/Japan
+
+
+👇 My motto　is
+"Sometimes you gotta run before you can walk."
+　-Tony Stark-
+
 
 ### Skills
 <p align="left">
