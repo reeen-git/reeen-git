@@ -10,7 +10,7 @@ I wanna be "Pro" IOS Developer.
 I'm based in Saitama/Japan 🌍
 
 
-👇 My motto　 
+👇 My motto　  
  "Sometimes you gotta run before you can walk."   -Tony Stark-
 
 
