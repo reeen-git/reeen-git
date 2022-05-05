@@ -1,11 +1,11 @@
-Hi 👋 My name is Ren.
+Hi 👋 My name is Ren　Takahashi.
 ===============================
 
 I'm a Junior IOS Developer.
 ---------------------
 
-I've been learning Swift and IOS_Dev for a year.  
-I wanna be "Pro" IOS Developer.
+I've been learning Swift and IOS Devlopment for a year.  
+I wanna be "Pro （つよつよ）" IOS Developer.
 
 I'm based in Saitama/Japan 🌍
 
