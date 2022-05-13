@@ -9,8 +9,7 @@ I wanna be つよつよ(pro) IOS Developer.
 
 I'm based in Saitama/Japan 🌍
 
-### Badges
-
+---------------------
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/reeen-git"><img src="https://github-readme-stats.vercel.app/api?username=reeen-git&show_icons=true&hide=contribs&count_private=true&title_color=facc15&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="reeen-git's GitHub stats" /></a>
