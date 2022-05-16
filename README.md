@@ -9,6 +9,8 @@ I wanna be つよつよ(pro) IOS Developer.
 
 I'm based in Saitama/Japan 🌍
 
+『　Sometimes you gotta run before you can walk.　』
+
 ---------------------
 
 <b>My GitHub Stats</b>
