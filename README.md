@@ -5,7 +5,7 @@ I'm a Junior IOS Developer.
 ---------------------
 
 I've been learning Swift and IOS Devlopment for one and a half years.  
-I wanna be つよつよ(pro) IOS Developer.
+I wanna be つよつよ(pro) IOS Developer.  
 And I wanna be learn Flutter!
 
 I'm based in Saitama/Japan 🌍
