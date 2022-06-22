@@ -1,7 +1,9 @@
 Hi 👋 My name is Ren Takahashi.
 ===============================
 
-I'm a Junior IOS Developer.<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><imgsrc="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+I'm a Junior IOS Developer.
+
+<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><imgsrc="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 </p> 
   
 
