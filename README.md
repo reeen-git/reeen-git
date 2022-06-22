@@ -25,7 +25,7 @@ I'm based in Saitama/Japan 🌍
 <a href="http://www.github.com/reeen-git"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reeen-git&stroke=facc15&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="http://www.github.com/reeen-git"><img src="https://activity-graph.herokuapp.com/graph?username=reeen-git&bg_color=0f172a&color=facc15&line=facc15&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/reeen-git" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeen-git&langs_count=10&title_color=ffffff&text_color=facc15&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- 
+<a href="https://github.com/reeen-git" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeen-git&langs_count=10&title_color=ffffff&text_color=facc15&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 
