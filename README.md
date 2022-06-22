@@ -11,9 +11,7 @@ I've been learning Swift and IOS Devlopment for one and a half years.
 I wanna be つよつよ(pro) IOS Developer.    
   
 ---------------------
-  
-### Badges
-<b>My GitHub Stats</b>
+ <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/reeen-git"><img src="https://github-readme-stats.vercel.app/api?username=reeen-git&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=facc15&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="reeen-git's GitHub stats" /></a>
 
