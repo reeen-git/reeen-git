@@ -4,12 +4,16 @@ Hi 👋 My name is Ren Takahashi.
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
 </p>  
 
-I'm a Junior IOS Developer.  
-I've been learning Swift and IOS Devlopment for one and a half years.  
-I wanna be つよつよ(pro) IOS Developer.  
-And I wanna be learn Flutter!  
+I'm a Junior IOS Developer.
+  
+I've been learning Swift and IOS Devlopment for one and a half years.
+  
+I wanna be つよつよ(pro) IOS Developer.
+  
+And I wanna be learn Flutter!
+  
 I'm based in Saitama/Japan 🌍
-
+  
 『Sometimes you gotta run before you can walk.』
 
 ---------------------
