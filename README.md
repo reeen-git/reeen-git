@@ -2,6 +2,9 @@ Hi 👋 My name is Ren Takahashi.
 ===============================
 
 I'm a Junior IOS Developer.
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+</p>
 ---------------------
 
 I've been learning Swift and IOS Devlopment for one and a half years.  
@@ -19,6 +22,8 @@ I'm based in Saitama/Japan 🌍
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/reeen-git"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reeen-git&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/reeen-git"><img src="https://activity-graph.herokuapp.com/graph?username=reeen-git&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <!-- 
 <b>Top Repositories</b>
 
