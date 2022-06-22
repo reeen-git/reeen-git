@@ -2,11 +2,7 @@ Hi 👋 My name is Ren Takahashi.
 ===============================
 
 I'm a Junior IOS Developer.
-
-<p align="left"><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><imgsrc="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-</p> 
-  
-
+<p align="left"> <a href="https://www.github.com/reeen-git" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
 I've been learning Swift and IOS Devlopment for one and a half years.  
 I wanna be つよつよ(pro) IOS Developer.  
 And I wanna be learn Flutter!
