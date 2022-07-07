@@ -6,7 +6,7 @@ Hi 👋 My name is Ren Takahashi.
 
 I'm a Junior IOS Developer.
   
-I've been learning Swift and IOS Devlopment for one and a half years.
+I've been learning Swift and IOS Devlopment for 2years.
   
 I wanna be つよつよ(pro) IOS Developer.    
   
