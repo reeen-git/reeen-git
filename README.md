@@ -8,7 +8,7 @@ I'm a Junior IOS Developer.
   
 I've been learning Swift and IOS Devlopment for 2years.
   
-I wanna be つよつよ(pro) IOS Developer.    
+I wanna be つよつよ IOS Developer.    
   
 ---------------------
  <b>My GitHub Stats</b>
