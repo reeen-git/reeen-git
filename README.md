@@ -17,7 +17,7 @@ I wanna be つよつよ IOS Developer.
 
 <a href="http://www.github.com/reeen-git"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reeen-git&stroke=facc15&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
- <b>My Top Repositorys</b>
+ <b>My Top Repository</b>
 
 <div width="100%" align="center"><a href="https://github.com/reeen-git/constellation" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=reeen-git&repo=constellation&title_color=ffffff&text_color=facc15&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <!-- 
